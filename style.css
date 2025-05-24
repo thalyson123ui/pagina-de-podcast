@@ -1,0 +1,10 @@
+:root {
+    --flourescent-blue: #59320F;
+    --heliotrope-gray: #BF681B;
+    --russian-violet: hsl(138, 80%, 16%);
+    --dark-violet: #F29A2E;
+    --space-cadet: #F2C777;
+    --blue-ryb: #F2B544;
+    --white: #ffffff;
+
+    --gradient: linear-gradient(to right, var(--flourescent-blue), var(--blue-ryb));
